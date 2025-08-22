@@ -1,4 +1,7 @@
-# Hi there 👋
+# HOLA!🎱
+“Regret has many faces—kindness is never one of them.”
+
+
 
 ##🧑‍💻 Introduction  
 Hello! My name is Arron Ivan F. Balonzo. I’m passionate about technology and currently exploring the world of programming. I enjoy learning new things and building small projects to improve my skills.  
